@@ -1,0 +1,149 @@
+{
+  "width": 1080,
+  "height": 2400,
+  "background": "#FFFFFF",
+  "elements": [
+    {
+      "type": "Picture",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 2400,
+      "layoutIndex": 0,
+      "layer": 0,
+      "srcName": "pic_0.webp"
+    },
+    {
+      "type": "Image",
+      "x": 345,
+      "y": 1694,
+      "width": 442,
+      "height": 786,
+      "angle": 34,
+      "layoutIndex": 1,
+      "layer": 1,
+      "srcName": "img_2.webp"
+    },
+    {
+      "type": "Picture",
+      "x": 72,
+      "y": 1552,
+      "width": 992,
+      "height": 1070,
+      "layoutIndex": 2,
+      "layer": 1,
+      "srcName": "pic_2.webp",
+      "angle": 0
+    },
+    {
+      "type": "Image",
+      "x": 640,
+      "y": 205,
+      "width": 442,
+      "height": 786,
+      "angle": -38,
+      "layoutIndex": 3,
+      "layer": 1,
+      "srcName": "img_3.webp"
+    },
+    {
+      "type": "Picture",
+      "x": 353,
+      "y": 63,
+      "width": 1017,
+      "height": 1066,
+      "layoutIndex": 4,
+      "layer": 1,
+      "srcName": "pic_3.webp",
+      "angle": 0
+    },
+    {
+      "type": "Image",
+      "x": 30,
+      "y": 169,
+      "width": 442,
+      "height": 786,
+      "angle": -8,
+      "layoutIndex": 5,
+      "layer": 1,
+      "srcName": "img_4.webp"
+    },
+    {
+      "type": "Picture",
+      "x": -103,
+      "y": 78,
+      "width": 711,
+      "height": 967,
+      "layoutIndex": 6,
+      "layer": 1,
+      "srcName": "pic_4.webp",
+      "angle": 0
+    },
+    {
+      "type": "Image",
+      "x": -90,
+      "y": 1179,
+      "width": 442,
+      "height": 786,
+      "angle": -14,
+      "layoutIndex": 7,
+      "layer": 1,
+      "srcName": "img_5.webp"
+    },
+    {
+      "type": "Picture",
+      "x": -261,
+      "y": 1067,
+      "width": 788,
+      "height": 1008,
+      "layoutIndex": 8,
+      "layer": 1,
+      "srcName": "pic_5.webp",
+      "angle": 0
+    },
+    {
+      "type": "Image",
+      "x": 763,
+      "y": 1241,
+      "width": 442,
+      "height": 786,
+      "angle": 18,
+      "layoutIndex": 9,
+      "layer": 1,
+      "srcName": "img_6.webp"
+    },
+    {
+      "type": "Picture",
+      "x": 568,
+      "y": 1118,
+      "width": 835,
+      "height": 1030,
+      "layoutIndex": 10,
+      "layer": 1,
+      "srcName": "pic_6.webp",
+      "angle": 0
+    },
+    {
+      "type": "Image",
+      "x": 318,
+      "y": 839,
+      "width": 442,
+      "height": 786,
+      "angle": 0,
+      "layoutIndex": 11,
+      "layer": 2,
+      "srcName": "img_1.webp"
+    },
+    {
+      "type": "Picture",
+      "x": 245,
+      "y": 785,
+      "width": 591,
+      "height": 892,
+      "layoutIndex": 12,
+      "layer": 2,
+      "srcName": "pic_1.webp",
+      "angle": 0
+    }
+  ]
+}

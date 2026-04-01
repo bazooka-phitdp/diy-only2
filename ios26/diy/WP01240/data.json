@@ -1,0 +1,138 @@
+{
+  "width": 1080,
+  "height": 2400,
+  "background": "#FFFFFF",
+  "elements": [
+    {
+      "type": "Picture",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 2400,
+      "layoutIndex": 0,
+      "layer": 0,
+      "srcName": "pic_0.webp"
+    },
+    {
+      "type": "Image",
+      "x": 194,
+      "y": 895,
+      "width": 341,
+      "height": 338,
+      "angle": -14,
+      "layoutIndex": 1,
+      "layer": 1,
+      "srcName": "img_1.webp"
+    },
+    {
+      "type": "Picture",
+      "x": 109,
+      "y": 830,
+      "width": 529,
+      "height": 541,
+      "layoutIndex": 2,
+      "layer": 1,
+      "srcName": "pic_1.webp",
+      "angle": 0
+    },
+    {
+      "type": "Image",
+      "x": 572,
+      "y": 829,
+      "width": 332,
+      "height": 328,
+      "angle": 6,
+      "layoutIndex": 3,
+      "layer": 1,
+      "srcName": "img_2.webp"
+    },
+    {
+      "type": "Picture",
+      "x": 486,
+      "y": 773,
+      "width": 497,
+      "height": 512,
+      "layoutIndex": 4,
+      "layer": 1,
+      "srcName": "pic_2.webp",
+      "angle": 0
+    },
+    {
+      "type": "Image",
+      "x": 415,
+      "y": 1628,
+      "width": 332,
+      "height": 328,
+      "angle": -6,
+      "layoutIndex": 5,
+      "layer": 1,
+      "srcName": "img_3.webp"
+    },
+    {
+      "type": "Picture",
+      "x": 334,
+      "y": 1569,
+      "width": 502,
+      "height": 518,
+      "layoutIndex": 6,
+      "layer": 1,
+      "srcName": "pic_3.webp",
+      "angle": 0
+    },
+    {
+      "type": "Image",
+      "x": 128,
+      "y": 1316,
+      "width": 332,
+      "height": 328,
+      "angle": -30,
+      "layoutIndex": 7,
+      "layer": 2,
+      "srcName": "img_4.webp"
+    },
+    {
+      "type": "Picture",
+      "x": 13,
+      "y": 1209,
+      "width": 599,
+      "height": 606,
+      "layoutIndex": 8,
+      "layer": 2,
+      "srcName": "pic_4.webp",
+      "angle": 0
+    },
+    {
+      "type": "Image",
+      "x": 599,
+      "y": 1254,
+      "width": 358,
+      "height": 354,
+      "angle": 14,
+      "layoutIndex": 9,
+      "layer": 2,
+      "srcName": "img_5.webp"
+    },
+    {
+      "type": "Picture",
+      "x": 486,
+      "y": 1180,
+      "width": 564,
+      "height": 577,
+      "layoutIndex": 10,
+      "layer": 2,
+      "srcName": "pic_5.webp",
+      "angle": 0
+    },
+    {
+      "type": "Image",
+      "x": 305,
+      "y": 905,
+      "width": 490,
+      "height": 792,
+      "angle": 0,
+      "layoutIndex": 11,
+      "layer": 2,
+      "srcName": "img_6.webp"
+    }
+  ]
+}

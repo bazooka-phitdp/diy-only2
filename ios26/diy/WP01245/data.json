@@ -1,0 +1,116 @@
+{
+  "width": 1080,
+  "height": 2400,
+  "background": "#FFFFFF",
+  "elements": [
+    {
+      "type": "Picture",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 2400,
+      "layoutIndex": 0,
+      "layer": 0,
+      "srcName": "pic_0.webp"
+    },
+    {
+      "type": "Image",
+      "x": 642,
+      "y": 1096,
+      "width": 440,
+      "height": 436,
+      "angle": -20,
+      "layoutIndex": 1,
+      "layer": 1,
+      "srcName": "img_2.webp"
+    },
+    {
+      "type": "Picture",
+      "x": 499,
+      "y": 979,
+      "width": 760,
+      "height": 768,
+      "layoutIndex": 2,
+      "layer": 1,
+      "srcName": "pic_2.webp",
+      "angle": 0
+    },
+    {
+      "type": "Image",
+      "x": 76,
+      "y": 981,
+      "width": 356,
+      "height": 352,
+      "angle": 15,
+      "layoutIndex": 3,
+      "layer": 1,
+      "srcName": "img_1.webp"
+    },
+    {
+      "type": "Picture",
+      "x": -47,
+      "y": 902,
+      "width": 582,
+      "height": 589,
+      "layoutIndex": 4,
+      "layer": 1,
+      "srcName": "pic_1.webp",
+      "angle": 0
+    },
+    {
+      "type": "Image",
+      "x": 184,
+      "y": 1001,
+      "width": 772,
+      "height": 1399,
+      "angle": 0,
+      "layoutIndex": 5,
+      "layer": 1,
+      "srcName": "img_5.webp"
+    },
+    {
+      "type": "Image",
+      "x": 44,
+      "y": 1846,
+      "width": 344,
+      "height": 340,
+      "angle": -16,
+      "layoutIndex": 6,
+      "layer": 2,
+      "srcName": "img_3.webp"
+    },
+    {
+      "type": "Picture",
+      "x": -55,
+      "y": 1768,
+      "width": 560,
+      "height": 567,
+      "layoutIndex": 7,
+      "layer": 2,
+      "srcName": "pic_3.webp",
+      "angle": 0
+    },
+    {
+      "type": "Image",
+      "x": 635,
+      "y": 1849,
+      "width": 382,
+      "height": 378,
+      "angle": 14,
+      "layoutIndex": 8,
+      "layer": 2,
+      "srcName": "img_4.webp"
+    },
+    {
+      "type": "Picture",
+      "x": 504,
+      "y": 1767,
+      "width": 619,
+      "height": 627,
+      "layoutIndex": 9,
+      "layer": 2,
+      "srcName": "pic_4.webp",
+      "angle": 0
+    }
+  ]
+}
